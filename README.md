@@ -4,7 +4,7 @@
 
 woocommerce-sales-etl  
 ├── README.md  
-├── 📂 data  
+├── data  
 │   ├── orders.csv  # WooCommerce orders dataset  
 ├── 📂 etl  
 │   ├── extract.py   # Extract data from CSV  
