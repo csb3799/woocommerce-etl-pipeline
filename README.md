@@ -11,7 +11,7 @@ woocommerce-sales-etl
 │   ├── transform.py # Clean & preprocess data  
 │   ├── load.py      # Load data into PostgreSQL  
 │   ├── main.py      # Runs the full ETL pipeline  
-├── 📂 db  
+├── db  
 │   ├── schema.sql   # Database Schema (Star Schema)  
 │   ├── queries.sql  # SQL Queries for analysis  
 ├── 📂 airflow  
