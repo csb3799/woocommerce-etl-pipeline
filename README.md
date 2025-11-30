@@ -14,7 +14,7 @@ woocommerce-sales-etl
 ├── db  
 │   ├── schema.sql   # Database Schema (Star Schema)  
 │   ├── queries.sql  # SQL Queries for analysis  
-├── 📂 airflow  
+├── airflow  
 │   ├── sales_etl_dag.py  # Airflow DAG for automation  
 ├── 📂 notebooks  
 │   ├── sales_analysis.ipynb  # Jupyter Notebook for SQL & Visualisation  
