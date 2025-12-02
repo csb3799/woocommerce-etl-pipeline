@@ -16,7 +16,7 @@ woocommerce-sales-etl
 │   ├── queries.sql  # SQL Queries for analysis  
 ├── airflow  
 │   ├── sales_etl_dag.py  # Airflow DAG for automation  
-├── 📂 notebooks  
+├── notebooks  
 │   ├── sales_analysis.ipynb  # Jupyter Notebook for SQL & Visualisation  
 ├── 📂 dashboards  
 │   ├── power_bi.pbix  # Power BI Dashboard  
