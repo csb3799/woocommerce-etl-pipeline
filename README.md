@@ -21,7 +21,7 @@ woocommerce-sales-etl
 ├── dashboards  
 │   ├── power_bi.pbix  # Power BI Dashboard  
 │   ├── tableau.twbx   # Tableau Workbook  
-├── 📄 requirements.txt  
+├── requirements.txt  
 
 
 ### 1️. ETL Pipeline Implementation
